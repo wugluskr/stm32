@@ -1,3 +1,6 @@
 [submodule "chibios"]
 	path = chibios
 	url = git://github.com/mabl/ChibiOS.git
+[submodule "chibios-gfx"]
+	path = chibios-gfx
+	url = git://github.com/Tectu/ChibiOS-GFX.git
